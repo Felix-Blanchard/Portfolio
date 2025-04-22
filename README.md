@@ -10,13 +10,13 @@ My portfolio of software projects.
 - Description
 - Links
 
-### Education
+# Education
 - University
 
-### Work history
+# Work history
 - Workplace 1
 - Workplace 2
 
-### Link in links
+# Link in links
 
-### Interests:
+# Interests:
