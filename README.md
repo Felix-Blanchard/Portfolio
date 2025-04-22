@@ -4,7 +4,7 @@ My portfolio of software projects.
 ## Projects
 ### Project 1
 - Description
-- Links
+- [Github Repository](https://github.com/Felix-Blanchard/Seng202-Wine-Reviewing-App)
 
 ### Project 2
 - Description
