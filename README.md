@@ -8,7 +8,11 @@ My portfolio of software projects.
 
 ### Project 2
 - Description
-- Links
+- [Github Repository](https://github.com/Felix-Blanchard/Ence260-Memory-Game)
+
+### Project 3
+- Description
+- [Github Repository]()
 
 # Education
 - University
