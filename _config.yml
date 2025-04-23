@@ -2,4 +2,7 @@ title: Felix Blanchard
 logo: docs/assets/headshot.png
 # description: Software Engineering Student (UC, 3rd year) | Climber, Hiker, Surfer | Always Listening to Music!
 # show downloads: true
-theme: jekyll-theme-minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
