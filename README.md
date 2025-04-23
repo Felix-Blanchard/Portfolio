@@ -1,4 +1,4 @@
-# portfolio
+# My Portfolio
 My portfolio of software projects.
 
 ## Projects
