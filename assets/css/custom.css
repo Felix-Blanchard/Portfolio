@@ -2,3 +2,25 @@
 .site-logo img {
     max-height:5rem
 }
+
+/* override scroll behavior on sidebar */
+.sidebar {
+    overflow: visible !important;
+    max-height: none !important;
+    opacity: 1;
+}
+
+/* also override scroll on sidebar container */
+.sidebar__right,
+.sidebar__content {
+    overflow: visible !important;
+    max-height: none !important;
+}
+
+/* ensure image doesn’t overflow container */
+.sidebar__image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
