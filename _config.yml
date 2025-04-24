@@ -1,5 +1,5 @@
 title: Felix Blanchard
-logo: docs/assets/headshot.png
+logo: assets/images/headshot.png
 # description: Software Engineering Student (UC, 3rd year) | Climber, Hiker, Surfer | Always Listening to Music!
 # show downloads: true
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
@@ -7,6 +7,21 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-include-cache
 
+atom_feed: # disabled FEED
+  hide: true
+
 collections:
   pages:
     output: true
+
+footer:
+  links:
+    - label: "Download My CV"
+      icon: "fas fa-fw fa-file-download"
+      url: "/assets/files/Felix_Blanchard_CV.pdf"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Felix-Blanchard"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/felix-blanchard-858301297/"
