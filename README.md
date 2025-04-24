@@ -2,25 +2,11 @@
 My portfolio of software projects.
 
 ## Projects
-### Project 1
-- Description
+### Wine Reviewing App
 - [Github Repository](https://github.com/Felix-Blanchard/Seng202-Wine-Reviewing-App)
 
-### Project 2
-- Description
+### Basic UC Funkit Microcontroller Memory Game
 - [Github Repository](https://github.com/Felix-Blanchard/Ence260-Memory-Game)
 
-### Project 3
-- Description
-- [Github Repository]()
-
-# Education
-- University
-
-# Work history
-- Workplace 1
-- Workplace 2
-
-# Link in links
-
-# Interests:
+### Game Review Website API
+- [Github Repository](https://github.com/Felix-Blanchard/Seng365-Game-Review-Website-API)
