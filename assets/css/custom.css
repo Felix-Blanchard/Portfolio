@@ -1,0 +1,88 @@
+.sidebar {
+    overflow: visible !important;
+    max-height: none !important;
+    opacity: 1;
+}
+
+.sidebar__right,
+.sidebar__content {
+    overflow: visible !important;
+    max-height: none !important;
+}
+
+.sidebar__image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.skill-badge {
+    padding: 0.4em 0.8em;
+    background-color: #3c6e71;
+    color: #ffffff;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav {
+    background-color: #284b63 !important;
+    color: #ffffff !important;
+}
+
+.masthead__menu a,
+.masthead__menu a:link,
+.masthead__menu a:visited,
+.greedy-nav__toggle a {
+    color: #ffffff !important;
+}
+
+.welcome-text {
+    display: flex !important;
+    flex-direction: column;
+    gap: 0.75rem !important;
+}
+
+.welcome-text .hello-text,
+.welcome-text .name-text {
+    line-height: 1 !important;
+    font-size: 4rem !important;
+    font-weight: bold;
+}
+
+.welcome-text .blurb-text {
+    margin-left: 5px;
+    line-height: 1.5 !important;
+}
+
+.project-section {
+    background-color: #d9d9d9;
+    padding: 2rem;
+    border-radius: 15px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+img.project-image {
+    width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+    background-color: #ffffff;
+    display: block !important;
+}
+
+.project-title {
+    font-weight: bold;
+}
