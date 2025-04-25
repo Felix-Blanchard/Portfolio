@@ -25,8 +25,8 @@
 
 .skill-badge {
     padding: 0.4em 0.8em;
-    background-color: #9a8c98;
-    color: #c9ada7;
+    background-color: #3c6e71;
+    color: #ffffff;
     border-radius: 999px;
     font-size: 0.9rem;
     font-weight: 500;
@@ -38,8 +38,15 @@
 .masthead__inner-wrap,
 .masthead__menu,
 .greedy-nav {
-    background-color: #22223b !important;
-    color: #f2e9e4 !important;
+    background-color: #284b63 !important;
+    color: #ffffff !important;
+}
+
+.masthead__menu a,
+.masthead__menu a:link,
+.masthead__menu a:visited,
+.greedy-nav__toggle a {
+    color: #ffffff !important;
 }
 
 .welcome-text {
@@ -60,3 +67,22 @@
     line-height: 1.5 !important;
 }
 
+.project-section {
+    background-color: #d9d9d9;
+    padding: 2rem;
+    border-radius: 15px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+img.project-image {
+    width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+    background-color: #ffffff;
+    display: block !important;
+}
+
+.project-title {
+    font-weight: bold;
+}
