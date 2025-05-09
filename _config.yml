@@ -1,6 +1,10 @@
 title: Felix Blanchard
 # description: Software Engineering Student (UC, 3rd year) | Climber, Hiker, Surfer | Always Listening to Music!
 # show downloads: true
+
+url: "https://felix-blanchard.github.io"
+baseurl: "/Portfolio"
+
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
@@ -17,7 +21,7 @@ footer:
   links:
     - label: "Download My CV"
       icon: "fas fa-fw fa-file-download"
-      url: "https://felix-blanchard.github.io/Portfolio/assets/files/Felix_Blanchard_CV.pdf"
+      url: "{{ '/assets/files/Felix_Blanchard_CV.pdf' | relative_url }}"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Felix-Blanchard"
