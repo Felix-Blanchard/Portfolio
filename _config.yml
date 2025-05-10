@@ -21,7 +21,7 @@ footer:
   links:
     - label: "Download My CV"
       icon: "fas fa-fw fa-file-download"
-      url: "https://en.wikipedia.org/wiki/Wiki"
+      url: "https://github.com/Felix-Blanchard/Portfolio/blob/main/assets/files/Felix_Blanchard_CV.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Felix-Blanchard"
